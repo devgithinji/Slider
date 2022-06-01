@@ -1,5 +1,7 @@
-# react-projects-7-slider
+# Slider Application
 
-#### IN ACTION
+#### Slider application built in react js
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+Click [here](https://slider-example-ke.netlify.app) to visit application
+
+Dennis Githinji 👍
